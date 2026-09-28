@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-bdi-belief-desire-intention-agent-skill",
+  "version": "1.0.0",
+  "description": "Belief-Desire-Intention (BDI) deliberative agent architecture with belief revision and commitment planning.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
