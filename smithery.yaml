@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-bdi-belief-desire-intention-agent-skill
+name: genpark-bdi-belief-desire-intention-agent-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
